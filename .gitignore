@@ -1,0 +1,6 @@
+*.bak
+imgur.ini
+env/
+
+# Pycharm
+.idea
